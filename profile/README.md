@@ -4,6 +4,6 @@ We are a small team of researchers, engineers, and creatives who share a mission
 
 - [Chora Website](https://chora.io)
 - [Chora Documentation](https://docs.chora.io)
-- [Chora Schema](https://schema.chora.io)
-- [Chora Server](https://server.chora.io)
 - [Chora Testnet](https://testnet.chora.io)
+- [Chora Server](https://server.chora.io)
+- [Chora Schema](https://schema.chora.io)
