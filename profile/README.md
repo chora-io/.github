@@ -1,6 +1,8 @@
 # About
 
-We are a small team of researchers, engineers, and creatives who share a mission to explore "outside the city proper" (see [χώρα](https://en.wikipedia.org/wiki/Kh%C3%B4ra)). We are currently researching the use of decentralized blockchain protocols for commons governance and ecological regeneration.
+We are prototyping software tools and services for commons governance and ecological regeneration using distributed ledger technologies.
+
+We also run a validator on [Regen](https://www.mintscan.io/regen/validators/regenvaloper1t8p3zdu3h8qzggfmvvvmtdnaj4trcsfh79xp4e) in addition to multiple validators on test networks including Chora Testnet and Regen Redwood.
 
 - [Chora Website](https://chora.io)
 - [Chora Documentation](https://docs.chora.io)
